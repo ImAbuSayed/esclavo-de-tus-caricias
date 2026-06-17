@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/esclavo-de-tus-caricias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Esclavo de tus caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tus-caricias/) |
+| **Get License** | [Secure Licensing Rights for Esclavo de tus caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tus-caricias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Soy esclavo de tus caricias, no lo puedo evitar
+> Me tienes alocao', baby, a punto de estallar
+> Ese flow que tú llevas me quita la gravedad
+> Dime si esta noche nos perdemos por la ciudad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
