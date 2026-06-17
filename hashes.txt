@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Esclavo de tus caricias
+
+This log tracks the cryptographic history and versioning for the song **Esclavo de tus caricias** (esclavo-de-tus-caricias).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T18:02:34.356455 | `v1` | `69557741206aa1990a0463d7286a4f67e779c0ddcd8c68d0515266c63e35c4be` | `05e6a138fe86993f5d9b9b100c6e01c07338ad75223a7ad0b7e6801012cdde42` | `2026-06-17_esclavo-de-tus-caricias-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
